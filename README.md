@@ -1,6 +1,6 @@
 # IsolateJS JavaScript Engine
 
-![IsolateJS Logo](./isolatejs-logo.png "IsolateJS - Secure JavaScript Execution")
+![image](https://github.com/user-attachments/assets/64403d74-4007-4efe-a9b0-7e556b4e988a)
 
 This code implements the **IsolateJS JavaScript Engine**, a robust and secure JavaScript execution 
 environment designed for tasks such as data analysis, query generation, and dynamic visualization. 
